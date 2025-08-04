@@ -1,0 +1,54 @@
+{
+    "id": 886988,
+    "name": "qoUEO",
+    "author": "GhostVandalf",
+    "creators": ["GhostVandalf"],
+    "verifier": "kloone",
+    "verification": "https://youtu.be/AFLqf53NEHU?si=sQ8Dy9WQdBwfC-eP",
+    "percentToQualify": "100",
+    "password": "886988",
+    "records": [
+        {
+            "user": "stillsouless",
+            "link": "https://youtu.be/AG7QhUGb8MA?si=-lOIx96BAQEOrsom",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Diamond",
+            "link": "https://youtu.be/eU2GsNZi-Zo?si=u7IivDxUfpre1OUS",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SuperJavicon",
+            "link": "https://youtu.be/cqlQsQFs2Rw?si=P-Zjoes0GbJswUd_",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Teno",
+            "link": "https://youtu.be/ASs04oy0EoE?si=P_rvFnPoAgiA9dZ4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "PoCle",
+            "link": "https://youtu.be/t1JAxe51DRk?si=C-v1nh9SJqqlfC3V",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tihra",
+            "link": "https://youtu.be/bMprzGk_Gf0?si=nFtOppCixFXTQ23C",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/uNXRJ1Nlllw?si=2YOD-fEJSBoIaqE1",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

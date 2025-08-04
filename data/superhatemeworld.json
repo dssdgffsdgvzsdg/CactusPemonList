@@ -1,0 +1,60 @@
+{
+    "id": 57571983,
+    "name": "SUPERHATEMEWORLD",
+    "author": "icedcave",
+    "creators": ["Loogiah","icedcave","Endlevel","Realvet","River", "Doop"],
+    "verifier": "PoCle",
+    "verification": "https://youtu.be/exefDY4BB_I?si=3fYZvdZvvCEn145E",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "kloone",
+            "link": "https://youtu.be/j-bC3QDL71A?si=vxxiJl5PZ7r-gjBJ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "cudby",
+            "link": "https://youtu.be/V-KvLhZSBQE?si=k41799XljcEBve32",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/83FgMOBIrVM?si=i5TKfU3pgBSbj2xT",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tunax",
+            "link": "https://www.youtube.com/watch?v=4FOngcaSG1U",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "GuitGuit",
+            "link": "https://youtu.be/zyzgzH50UZ4?si=lYdzpyJAVxhWkDaC",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tihra",
+            "link": "https://youtu.be/LCQGsGm_9YY?si=TAdBof7x0kc61jsR",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "GuillExprex52",
+            "link": "https://youtu.be/UwEjRbj0-uM?si=Ra3D_wOGF59DwyKq",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "niwox_",
+            "link": "https://youtu.be/GMTQci3Vc3U?si=VRFHButP0c8Hod3M",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

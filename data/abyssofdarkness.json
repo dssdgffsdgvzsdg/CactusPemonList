@@ -1,0 +1,30 @@
+ {
+ "id": 112313819,
+    "name": "Abyss of Darkness",
+    "author": "Exen",
+    "creators": [],
+    "verifier": "DoSh7t",
+    "verification": "https://www.youtube.com/watch?v=mfYnpIkEvP8",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "SerVax",
+            "link": "https://www.youtube.com/watch?v=PvKtxwwIT6U",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "PoCle",
+            "link": "https://www.youtube.com/watch?v=lWMV9Ixg2G4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Kole",
+            "link": "https://www.youtube.com/watch?v=dzYJO1xfmfg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+ }

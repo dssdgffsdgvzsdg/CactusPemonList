@@ -1,0 +1,24 @@
+{
+    "id": 95767653,
+    "name": "Frost Spirit",
+    "author": "Quaybus",
+    "creators": ["Reda", "Zipixbox", "Realvet", "River", "silver", "AlrexX", "manu", "valentine", "Linear", "DrayTM", "Pla", "MercuryDT", "Quaybus", "InfiniteStyles", "GDIris", "Halzion", "ConnectedGD"],
+    "verifier": "kloone",
+    "verification": "https://youtu.be/_6uOpXXKJNY?si=Y19yQob5rmvbE9pb",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Superjavicon",
+            "link": "https://youtu.be/LQLXztCPEZM?si=JzJQXTU_v8xUljY-",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Bracus",
+            "link": "https://youtu.be/_yarFH0OP2k?si=vY9lDTZHZ5sGm8Ml",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

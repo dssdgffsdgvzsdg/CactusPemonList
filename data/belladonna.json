@@ -1,0 +1,18 @@
+{
+    "id": 94969889,
+    "name": "Belladonna",
+    "author": "CherryTeam",
+    "creators": ["Vernam","Itami"],
+    "verifier": "Cuatrocientos",
+    "verification": "https://youtu.be/-QXEciedqPU?si=SC3GVPPQCZEfbkBq",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+            {
+            "user": "kloone",
+            "link": "https://youtu.be/LA8tLLdOBzI?si=6fhqw8Ht_9vWfwAT",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

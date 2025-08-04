@@ -1,0 +1,66 @@
+{
+    "id": 69333212,
+    "name": "Promethean",
+    "author": "Endlevel",
+    "creators": ["Realvet","Endlevel","Connected","River"],
+    "verifier": "Tunax",
+    "verification": "https://www.youtube.com/watch?v=ROvk3cOK61U",
+    "percentToQualify": "100",
+    "password": "789123",
+    "records": [
+        {
+            "user": "stillsouless",
+            "link": "https://www.youtube.com/watch?v=eAVQoTbLXR4&ab_channel=stillsouless",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SuperJavicon",
+            "link": "https://youtu.be/I9PiGUnF1G8?si=4tsOpcJHvgEyQkOG",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Diamond",
+            "link": "https://youtu.be/VSNYcWgGExY?si=u7RvbSmjIeABFvNB",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://youtu.be/E8UO03rR-pg?si=ciNyyhZ8YIReyB72",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "PoCle",
+            "link": "https://youtu.be/Rky2sMEiHpM?si=2VNR9fA0qUKPdIbw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Teno",
+            "link": "https://youtu.be/q6Kc5LdU_ow?si=N94dVJcbWgdSTMG0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "A6",
+            "link": "https://youtu.be/N_5iw3DE2ms?si=37pgQgP9tC4yGmyN",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "AlecZD",
+            "link": "https://youtu.be/B-3xpUH9P1Y?si=mnw1JvUgZlPPKfG_",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/OVS39tsLiyU?si=uMBeYBSWwuPRQe06",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

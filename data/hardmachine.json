@@ -1,0 +1,37 @@
+{
+    "id": 72744364,
+    "name": "Hard Machine",
+    "author": "Komp",
+    "creators": ["Komp", "nikroplays", "viri"],
+    "verifier": "DoSh7t",
+    "verification": "https://youtu.be/y8a-Ph_SIII?si=YrRu7BpsMMO8N4GE",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "PoCle",
+            "link": "https://youtu.be/44pY-NnxMhk?si=i1s7bjYlY3Rtrdgz",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://youtu.be/6wStnTxKIMY?si=1dQq9sgUjuZk0MAK",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tunax",
+            "link": "https://www.youtube.com/watch?v=o2-sDTN9pvI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/DhPK9fyuz0o?si=u4cGJ0brSBs8NDkM",
+            "percent": 100,
+            "hz": 360
+        }
+  
+    ]
+}

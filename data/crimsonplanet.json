@@ -1,0 +1,84 @@
+{
+    "id": 45866767,
+    "name": "Crimson Planet",
+    "author": "TrueOmega",
+    "creators": ["Metalface221 and more"],
+    "verifier": "stillsouless",
+    "verification": "https://www.youtube.com/watch?v=UpYiNH5vxSc",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Teno",
+            "link": "https://www.youtube.com/watch?v=CW2XtrW7sB8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://www.youtube.com/watch?v=Bp0kkgxzk_4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SerVax",
+            "link": "https://www.youtube.com/watch?v=jyKnjbbHQcQ",
+            "percent": 100,
+            "hz": 360
+       },
+        {
+            "user": "tiredfish",
+            "link": "https://youtu.be/KHPt6O6-hWw?si=OIp_fjUqA8xkh6OG",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tunax",
+            "link": "https://www.youtube.com/watch?v=weHQv3rDN6Y",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Superjavicon",
+            "link": "https://www.youtube.com/watch?v=T7NFUzvN3wk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "A6",
+            "link": "https://www.youtube.com/watch?v=t5Rer4JB8Jc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "PoCle",
+            "link": "https://www.youtube.com/watch?v=UhAW4IuZnik",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://www.youtube.com/watch?v=bfbrU69lT8I",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Beastular",
+            "link": "https://www.youtube.com/watch?v=RIGuSKZwQvg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "AlecZD",
+            "link": "https://www.youtube.com/watch?v=QOOhe3CHy-Y",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Abdieldevil",
+            "link": "https://www.youtube.com/watch?v=s70yMH-HzMc",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

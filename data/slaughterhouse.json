@@ -1,0 +1,72 @@
+{
+    "id": 27690100,
+    "name": "Slaughterhouse",
+    "author": "icedcave",
+    "creators": ["icedcave","Endlevel","GD Iris", "DrCuber","Brittank88","River","CDMusic"],
+    "verifier": "Zeroxy",
+    "verification": "https://www.youtube.com/watch?v=gqEVuyHOvbQ",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Beastular",
+            "link": "https://youtu.be/8BN8cIiYJJk?si=cgdfDJ8Aw6g0XQ8J",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Diamond",
+            "link": "https://youtu.be/ayLiN4mJzYo?si=hfrztplHuc6heDNy",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tunax",
+            "link": "https://www.youtube.com/watch?v=rX8FINYUx1A&t=1s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://youtu.be/f-_bwD9ku6A?si=rqarsRl2C5nbhNo0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Abdieldevil",
+            "link": "https://youtu.be/h4cquG2YMI8?si=JS_W8Yq8HJsgMOEy",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "A6",
+            "link": "https://youtu.be/zWy1Vso8_xk?si=WjyfEIVWKnuGFh_9",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tihra",
+            "link": "https://youtu.be/5tOszZHHBAE?si=-N_xTNJMTW5HJBZ9",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "cudby",
+            "link": "https://youtu.be/WG_3ZJzjLEo?si=52t6DmtGYOjBiUyQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Superjavicon",
+            "link": "https://youtu.be/wSGhVoxD_eY?si=QqpAB2mQiPrzJRRU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SerVax",
+            "link": "https://youtu.be/hYpD7GNw2g8?si=ySN0_IxZ6uKlnPqh",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

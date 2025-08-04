@@ -1,0 +1,54 @@
+{
+    "id": 75206202,
+    "name": "Firework",
+    "author": "cherryteam",
+    "creators": ["Lekvid", "Vernam", "Orte", "Konsi", "Realvet", "Desumari", "Hantein", "Crouley", "Ililium", "00Zero", "Buragoz", "Itami"],
+    "verifier": "Gokill",
+    "verification": "https://www.youtube.com/watch?v=keVlE1KsJDE",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Tunax",
+            "link": "https://www.youtube.com/watch?v=1XNGTZ0SPc0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dovi",
+            "link": "https://www.youtube.com/watch?v=eh-cVjmWTIg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SerVax",
+            "link": "https://www.youtube.com/watch?v=ld1cbVEEDOg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Teno",
+            "link": "https://www.youtube.com/watch?v=8y629Gy41KI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Bracus",
+            "link": "https://www.youtube.com/watch?v=arVmCJVapFo",
+            "percent": 100,
+             "hz": 360
+        },
+        {
+            "user": "MAXDASH",
+            "link": "https://www.youtube.com/watch?v=pwT2ukn3y6Y&t=108s",
+            "percent": 100,
+             "hz": 144
+        },
+        {
+            "user": "cudby",
+            "link": "https://www.youtube.com/watch?v=aMWp2eVJpd8",
+            "percent": 100,
+             "hz": 360
+        }
+    ]
+}

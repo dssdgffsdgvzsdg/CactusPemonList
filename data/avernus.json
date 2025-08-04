@@ -1,0 +1,30 @@
+{
+    "id": 89496627,
+    "name": "Avernus",
+    "author": "PockeWindfish",
+    "creators": ["BoBo", "SyQual", "deactive", "GD Iris", "Zenn", "Loolycat", "Nidro", "Deadlox", "TriplasH", "Realvet", "Woom", "El3ctr0", "Zipixbox", "Kyhros"],
+    "verifier": "Diamond",
+    "verification": "https://www.youtube.com/watch?v=oEFB-ZrhMmM",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "SerVax",
+            "link": "https://www.youtube.com/watch?v=s4LJd1WsPos",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "A6",
+            "link": "https://www.youtube.com/watch?v=FifpSVGGq1U",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Abdieldevil",
+            "link": "https://www.youtube.com/watch?v=KqJW42qq-7c&t=2s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

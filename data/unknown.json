@@ -1,0 +1,78 @@
+{
+    "id": 88203501,
+    "name": "UNKNOWN",
+    "author": "NineDice",
+    "creators": ["GD Iris","NineDice","DrCuber","GhostVandalf","kywy","Renn241","Relayne","muriday","Gusearth"],
+    "verifier": "Diamond",
+    "verification": "https://youtu.be/a1sQxQqU6EM",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "PoCle",
+            "link": "https://youtu.be/1CknHNL_k48?si=FbKPsBRULA4YRrNM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "kloone",
+            "link": "https://youtu.be/1JeRhr44d94?si=353STqgBft-FG_nK",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tunax",
+            "link": "https://www.youtube.com/watch?v=vyIuae7FGCs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ad3us",
+            "link": "https://www.youtube.com/watch?v=_DgebtG0PZI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Superjavicon",
+            "link": "https://youtu.be/gnnlPKTKZ4U?si=AKAmDhy5VLzbA945",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "GuillExprex52",
+            "link": "https://youtu.be/w1fsAUVNPtU?si=AjXUhaMNkxiGBgqY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Abdieldevil",
+            "link": "https://youtu.be/idoNW6Y2IPw?si=pbSIY1Ze15IJsI6W",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Teno",
+            "link": "https://youtu.be/5-5C0-fP8tg?si=fkPp2riLrKL6h8Rx",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "cudby",
+            "link": "https://www.youtube.com/watch?v=yfXrv702bmU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Slaughter",
+            "link": "https://youtu.be/U9QoddXDhKU?si=pcxNTNOwizM8RQRC",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SerVax",
+            "link": "https://youtu.be/2aL0Dk8UYgE?si=wvlG3ODyaeURIpEl",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
