@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Mushromer",
+            "link": "https://www.youtube.com/watch?v=hMJj9uc1lKs",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
