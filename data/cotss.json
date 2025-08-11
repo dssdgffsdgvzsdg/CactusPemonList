@@ -8,5 +8,29 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Ayumi",
+            "link": "https://www.youtube.com/watch?v=2JGQaRI40pA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tanuklen",
+            "link": "https://www.youtube.com/watch?v=m_YMvxiozq0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "VoPlat",
+            "link": "https://www.youtube.com/watch?v=QRDkng5GCnc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Artemka_Klutoy",
+            "link": "https://www.youtube.com/watch?v=XpoTk7vfZV0",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
