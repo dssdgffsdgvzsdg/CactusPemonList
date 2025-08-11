@@ -13,6 +13,18 @@
             "link": "https://www.youtube.com/watch?v=ZFKIYDcXgJ4",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Artemka_Klutoy",
+            "link": "https://www.youtube.com/watch?si=QPsAW3RMFtF0mhjb&v=hSHjFqxPMdA&feature=youtu.be",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "VoPlat",
+            "link": "https://www.youtube.com/watch?v=HY5eLGHhSno",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
