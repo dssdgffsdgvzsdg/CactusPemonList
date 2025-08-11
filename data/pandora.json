@@ -8,5 +8,23 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Jungle",
+            "link": "https://www.youtube.com/watch?v=2JGQaRI40pA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Artemka_Klutoy",
+            "link": "https://www.youtube.com/watch?v=uQXE2pVTI0Q",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "VoPlat",
+            "link": "https://www.youtube.com/watch?v=_yPoeOl5DWg",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
