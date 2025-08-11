@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Jungle",
+            "link": "https://www.youtube.com/watch?v=JNTAasyW4Q4&feature=youtu.be",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
