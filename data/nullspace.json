@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "VoPlat",
+            "link": "https://www.youtube.com/watch?v=HD11pqce_zs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Artemka_Klutoy",
+            "link": "https://www.youtube.com/watch?v=bfvfAljglRY",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
