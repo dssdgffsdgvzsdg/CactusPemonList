@@ -1,24 +1,13 @@
 {
-    "id": 112058531,
-    "name": "ascend",
-    "author": "Hyysh",
-    "creators": ["Hyysh"],
-    "verifier": "VoPlat",
-    "verification": "https://www.youtube.com/watch?v=ihKeGaRD8p4",
+    "id": 117632770,
+    "name": "Starlight Cyclone",
+    "author": "TNTking531",
+    "creators": ["TNTking531"],
+    "verifier": "Mushromer",
+    "verification": "https://www.youtube.com/watch?v=i5NK1kMlAWk",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "Artemka_Klutoy",
-            "link": "https://www.youtube.com/watch?v=6NSXF5Gnaoc",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "JungleWolf",
-            "link": "https://www.youtube.com/watch?v=ZpSP1clLIno",
-            "percent": 100,
-            "hz": 360
-        }        
+               
     ]
 }
