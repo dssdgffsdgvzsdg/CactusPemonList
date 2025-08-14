@@ -1,0 +1,30 @@
+{
+    "id": 104896656,
+    "name": "The Elephants Foot",
+    "author": "FakeHATETAG",
+    "creators": ["FakeHATETAG"],
+    "verifier": "Ayumi",
+    "verification": "youtube.com/watch?time_continue=23&v=Gf_NgxUkQ0s&embeds_referring_euri=https%3A%2F%2Fgdplatformerlist.com%2F&source_ve_path=MjM4NTE",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Adanz9",
+            "link": "https://www.youtube.com/watch?v=kfQIlf5c75M",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Artemka_Klutoy",
+            "link": "https://www.youtube.com/watch?v=LTMndFQ0egs",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "VoPlat",
+            "link": "https://www.youtube.com/watch?v=Hvlw-EEUJ_k",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
