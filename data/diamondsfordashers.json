@@ -7,5 +7,18 @@
     "verification": "https://www.youtube.com/watch?v=yU0Nzf8lnTU",
     "percentToQualify": "100",
     "password": "Free to Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Artemka_Klutoy",
+            "link": "https://youtu.be/dqQIsSFU6FM?si=dcoFIbex9C2k9wP_",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "nng12",
+            "link": "https://youtu.be/yU0Nzf8lnTU?si=7KrbvbPpw4i1A6jG",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
