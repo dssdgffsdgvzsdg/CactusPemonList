@@ -3,8 +3,8 @@
     "name": "Null",
     "author": "RealMatter",
     "creators": [],
-    "verifier": "kgamesnyc",
-    "verification": "https://www.youtube.com/watch?v=P2MI0SzUJKI",
+    "verifier": "Adanz9",
+    "verification": "https://www.youtube.com/watch?v=TKpm7mGDSp4",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
@@ -57,8 +57,26 @@
             "hz": 360
         },
         {
-            "user": "Adanz9",
-            "link": "https://www.youtube.com/watch?v=TKpm7mGDSp4",
+            "user": "kgamesnyc",
+            "link": "https://www.youtube.com/watch?v=P2MI0SzUJKI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Masked MSS",
+            "link": "https://youtu.be/VMs3iHOg9NA?si=KsvkpvycuKS24t9C",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Cucu",
+            "link": "https://youtu.be/6IyONokHvPY?si=fq1ezYaSYartg1JK",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "mikoshii",
+            "link": "https://youtu.be/ifcr0Jki3rk?si=4Am6PolLGLz4sDyQ",
             "percent": 100,
             "hz": 360
         }
