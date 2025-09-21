@@ -3,10 +3,16 @@
     "name": "Parting Ways",
     "author": "zYuko",
     "creators": [],
-    "verifier": "VoPlat",
-    "verification": "https://youtu.be/mpCNVUzsLzE?si=EeClftB6A7BFsxsO",
+    "verifier": "Shroomy!!!",
+    "verification": "https://youtu.be/OHMKcKyKqMc",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "VoPlat",
+            "link": "https://youtu.be/mpCNVUzsLzE?si=EeClftB6A7BFsxsO",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
