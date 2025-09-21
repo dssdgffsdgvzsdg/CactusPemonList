@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Cucu",
+            "link": "https://youtu.be/TFzwaCarnGY?si=oGniGiton5wqvbb3",
+            "percent": 100,
+            "hz": 360
+        } ,
+        {
+            "user": "Tanuklen",
+            "link": "https://youtu.be/iwjiMbBom1M?si=g87sBqKT03zVXynz",
+            "percent": 100,
+            "hz": 360
+        } 
     ]
 }
