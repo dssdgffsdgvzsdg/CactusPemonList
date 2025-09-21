@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Tanuklen",
+            "link": "https://youtu.be/d7KK4gfk2so?si=XTOY182bnIY74dhD",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "VoPlat",
+            "link": "https://youtu.be/PBucRXs2lZI?si=Xa67-etusJsxFxrV",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
