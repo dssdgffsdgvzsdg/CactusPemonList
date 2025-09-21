@@ -3,14 +3,20 @@
     "name": "CaveOfTheScarletSky",
     "author": "zYuko",
     "creators": [],
-    "verifier": "Shroomy!!!",
-    "verification": "https://www.youtube.com/watch?v=ZI4zSNOIE7o",
+    "verifier": "Ayumi",
+    "verification": "https://www.youtube.com/watch?v=2JGQaRI40pA",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
         {
-            "user": "Ayumi",
-            "link": "https://www.youtube.com/watch?v=2JGQaRI40pA",
+            "user": "Shroomy!!!",
+            "link": "https://www.youtube.com/watch?v=ZI4zSNOIE7o",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "nng12",
+            "link": "https://youtu.be/kQIjnWy9MiA?si=eKcVMCsqh-O_Ppyv",
             "percent": 100,
             "hz": 360
         },
