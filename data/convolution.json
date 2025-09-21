@@ -1,13 +1,19 @@
 {
     "id": 105724358,
     "name": "CONVOLUTION",
-    "author": "KEaliTgeo",
+    "author": "MaddyGMD",
     "creators": ["ali_gd"],
-    "verifier": "Lutz127",
-    "verification": "https://www.youtube.com/watch?v=kDoX0x0BQwo",
+    "verifier": "Ayumi",
+    "verification": "https://youtu.be/TzPES1hQhGY?si=fE5arn9N3g2f-VEh",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Lutz127",
+            "link": "https://www.youtube.com/watch?v=kDoX0x0BQwo",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "Arouvis",
             "link": "https://www.youtube.com/watch?v=IS5aeyOOlfM",
@@ -33,8 +39,20 @@
             "hz": 360
         },
         {
-            "user": "Ayumi",
-            "link": "https://www.youtube.com/watch?v=TzPES1hQhGY",
+            "user": "Tanuklen",
+            "link": "https://youtu.be/U6tXCHYCxNc?si=3QbuQnmyYGlEnQ8q",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "nng12",
+            "link": "https://youtu.be/S40u6nhct6I?si=qdJAG5wLEd_L_yxt",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Cucu",
+            "link": "https://youtu.be/9lH2vnV_Vyc?si=TF9hwLmZZ8tuJ-Dz",
             "percent": 100,
             "hz": 360
         }
