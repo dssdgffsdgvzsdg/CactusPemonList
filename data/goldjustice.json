@@ -3,10 +3,16 @@
     "name": "Gold Justice",
     "author": "Minty14",
     "creators": ["Minty14", "NovaGD1"],
-    "verifier": "Adanz9",
-    "verification": "https://youtu.be/2PpfpT8oPRw?si=ikJ5RM8xrJFilO0K",
+    "verifier": "Shroomy!!!",
+    "verification": "https://youtu.be/0ptyEdhFQ9E",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Adanz9",
+            "link": "https://youtu.be/2PpfpT8oPRw?si=ikJ5RM8xrJFilO0K",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
