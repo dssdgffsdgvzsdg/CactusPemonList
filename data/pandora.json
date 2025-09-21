@@ -3,11 +3,17 @@
     "name": "Pandora",
     "author": "zYuko",
     "creators": [],
-    "verifier": "Tanuklen",
-    "verification": "https://www.youtube.com/watch?v=-xXtCk6kiWU",
+    "verifier": "mikoshii",
+    "verification": "https://youtu.be/HXM6_i_sZ-8",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Tanuklen",
+            "link": "https://www.youtube.com/watch?v=-xXtCk6kiWU",
+            "percent": 100,
+            "hz": 360
+        },
         {
             "user": "Jungle",
             "link": "https://www.youtube.com/watch?v=2JGQaRI40pA",
