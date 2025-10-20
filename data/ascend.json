@@ -13,12 +13,6 @@
             "link": "https://www.youtube.com/watch?v=6NSXF5Gnaoc",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "Jungle",
-            "link": "https://www.youtube.com/watch?v=ZpSP1clLIno",
-            "percent": 100,
-            "hz": 360
-        }        
+        }
     ]
 }
